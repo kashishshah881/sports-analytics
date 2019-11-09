@@ -1,4 +1,4 @@
-# Python Script To Find The Probablity of Mercedes Winning Russian GP 2019
+# To Find The Probablity of Mercedes Winning Russian GP 2019
 
 In this project, we create a python script to find the winning probablity of mercedes the russian grand prix looking at the score after singapore grand prix.
 
